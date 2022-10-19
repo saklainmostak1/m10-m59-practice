@@ -17,3 +17,13 @@
 .header a:hover{
     color: orange;
 }
+.log-out{
+    border: none;
+    background-color: #1C2B35;
+    font-size: 1em;
+    margin-left: 30px;
+    color: #FFFFFF;
+}
+.log-out:hover{
+   color: orange;
+}
